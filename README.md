@@ -1,9 +1,16 @@
 
 # Bauzeitenplan Creator / Construction Schedule Creator
 
+[![Deutsch](https://img.shields.io/badge/Deutsch-Deutsch-blue)](#deutsch)
+[![English](https://img.shields.io/badge/English-English-green)](#english)
+
+---
+
 ## Deutsch
 
-Der Bauzeitenplan Creator ist eine Anwendung zur Erstellung von Bauzeitenplänen. Mit Hilfe einer benutzerfreundlichen grafischen Benutzeroberfläche (GUI) können Benutzer Bauzeitenpläne eingeben, speichern und in Excel öffnen.
+Der Bauzeitenplan Creator ist eine Anwendung zur Erstellung von Bauzeitenplänen und Ausgabe als .xlsx Datei. Mit Hilfe einer benutzerfreundlichen grafischen Benutzeroberfläche können Benutzer einfach Bauzeitenpläne eingeben, speichern und in Excel öffnen.
+
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Funktionen
 
@@ -14,6 +21,8 @@ Der Bauzeitenplan Creator ist eine Anwendung zur Erstellung von Bauzeitenplänen
 - Öffnen der gespeicherten Excel-Datei direkt aus der Anwendung
 - Anpassbare Darstellung (Light, Dark, System)
 - Anpassbare UI-Skalierung
+
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Installation
 
@@ -30,6 +39,8 @@ Der Bauzeitenplan Creator ist eine Anwendung zur Erstellung von Bauzeitenplänen
     pip install -r requirements.txt
     ```
 
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
+
 ### Verwendung
 
 1. Starte die Anwendung:
@@ -41,6 +52,8 @@ Der Bauzeitenplan Creator ist eine Anwendung zur Erstellung von Bauzeitenplänen
 4. Optional: Aktivieren der Checkbox für Wochentage.
 5. Klicke auf "Speichern", um die Eingaben als Excel-Datei zu speichern.
 6. Klicke auf "Öffnen in Excel", um die gespeicherte Datei in Excel zu öffnen.
+
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Abhängigkeiten
 
@@ -54,6 +67,8 @@ Der Bauzeitenplan Creator ist eine Anwendung zur Erstellung von Bauzeitenplänen
 - holidays
 
 Diese können über die `requirements.txt` installiert werden.
+
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Projektstruktur
 
@@ -69,27 +84,37 @@ Bauzeitenplan/
 └── README.md              # Diese Datei
 ```
 
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
+
 ### Entwickler
 
 - J. Winkler
 
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
+
 ### Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen findest du in der LICENSE-Datei.
+Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Informationen finden Sie in der LICENSE-Datei.
+
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Versionskontrolle
 
-Diese Anwendung überprüft automatisch, ob eine neue Version verfügbar ist, und informiert den Benutzer entsprechend.
+Diese Anwendung überprüft automatisch auf eine neue Version und informiert den Benutzer entsprechend.
+
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Support
 
-Für Support, Fragen oder Anmerkungen, erstelle bitte ein Issue im [GitHub Repository](https://github.com/BlackHack13/Bauzeitenplan/issues).
+Für Support, Fragen oder Kommentare erstellen Sie bitte ein Issue im [GitHub-Repository](https://github.com/BlackHack13/Bauzeitenplan/issues).
 
----
+[Zurück](#bauzeitenplan-creator--construction-schedule-creator)
 
 ## English
 
-The Construction Schedule Creator is an application for creating construction schedules. With the help of a user-friendly graphical user interface (GUI), users can enter, save, and open construction schedules in Excel.
+The Construction Schedule Creator is an application for creating construction schedules and exporting them as .xlsx files. With a user-friendly graphical interface, users can easily input, save, and open construction schedules in Excel.
+
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Features
 
@@ -100,6 +125,8 @@ The Construction Schedule Creator is an application for creating construction sc
 - Open the saved Excel file directly from the application
 - Customizable display (Light, Dark, System)
 - Customizable UI scaling
+
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Installation
 
@@ -116,6 +143,8 @@ The Construction Schedule Creator is an application for creating construction sc
     pip install -r requirements.txt
     ```
 
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
+
 ### Usage
 
 1. Start the application:
@@ -127,6 +156,8 @@ The Construction Schedule Creator is an application for creating construction sc
 4. Optional: Activate the checkbox for weekdays.
 5. Click "Save" to save the entries as an Excel file.
 6. Click "Open in Excel" to open the saved file in Excel.
+
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Dependencies
 
@@ -141,6 +172,8 @@ The Construction Schedule Creator is an application for creating construction sc
 
 These can be installed via the `requirements.txt`.
 
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
+
 ### Project Structure
 
 ```
@@ -150,23 +183,33 @@ ConstructionScheduleCreator/
 │   ├── icon.ico
 │   └── logo.png
 │
-├── ConstructionScheduleCreator.py  # Main script
+├── Bauzeitenplan.py       # Main script
 ├── requirements.txt       # Dependencies
 └── README.md              # This file
 ```
+
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Developer
 
 - J. Winkler
 
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
+
 ### License
 
 This project is licensed under the MIT License. For more information, see the LICENSE file.
+
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
 
 ### Version Control
 
 This application automatically checks for a new version and informs the user accordingly.
 
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
+
 ### Support
 
 For support, questions, or comments, please create an issue in the [GitHub repository](https://github.com/BlackHack13/ConstructionScheduleCreator/issues).
+
+[Back to top](#bauzeitenplan-creator--construction-schedule-creator)
