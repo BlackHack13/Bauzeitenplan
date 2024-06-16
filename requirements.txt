@@ -1,0 +1,14 @@
+tkinter
+tkinter.messagebox
+tkinter.filedialog
+customtkinter
+PIL
+openpyxl
+openpyxl.styles
+openpyxl.utils
+keyboard
+calendar
+holidays
+datetime
+requests
+os
